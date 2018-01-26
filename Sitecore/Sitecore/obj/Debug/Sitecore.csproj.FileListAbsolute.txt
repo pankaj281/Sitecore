@@ -1,0 +1,6 @@
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.exe.config
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.exe
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.pdb
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\obj\Debug\Sitecore.csprojResolveAssemblyReference.cache
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\obj\Debug\Sitecore.exe
+c:\users\pankajs\documents\visual studio 2015\Projects\Sitecore\Sitecore\obj\Debug\Sitecore.pdb
