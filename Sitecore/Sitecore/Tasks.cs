@@ -91,6 +91,11 @@ namespace Sitecore
                     counter++;
                 });
 
+                var maxCountValue = 0;
+                maxCountValue = sameIntegerCount.Max(x => x.Value);
+                
+                Console.WriteLine("The maximum consecutive integer count is: {0}", maxCountValue);
+
                 Console.WriteLine("Maximun consecutive integers are as follows");
                 foreach (var result in sameIntegerCount)
                 {
